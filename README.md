@@ -19,7 +19,7 @@ This is a simple web application for validating credit card information using a 
 ## Getting Started
 
 1. Clone the repository:
-`git clone <repository-url>`
+`git clone https://github.com/apps-mahmudbakale/LevelUp.git`
 `cd LevelUp`
 2. Install dependencies:
 `npm install`
